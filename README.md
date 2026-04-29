@@ -1,6 +1,6 @@
 # Inventory Analysis for a Liquor Retail Company
 
-Using a dummy dataset from Kaggle, this project focuses on building a data pipeline and analytical framework to support inventory management decisions.
+Using a dummy dataset from Kaggle (https://www.kaggle.com/datasets/bhanupratapbiswas/inventory-analysis-case-study), this project focuses on building a data pipeline and analytical framework to support inventory management decisions.
 
 ## Database (MySQL) and Dashboard (Tableau)
 Design and develop raw and aggregated sales databases, and integrate them with Tableau Desktop to create interactive dashboards for monitoring sales and revenue performance.
